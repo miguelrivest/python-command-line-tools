@@ -1,0 +1,3 @@
+function s {
+  python C:\Path\To\Python\Search\Script $args
+}
